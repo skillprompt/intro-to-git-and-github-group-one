@@ -78,3 +78,9 @@ git remote add origin <remote_url>
 ```bash
 git push origin <branch_name>
 ```
+
+11. command to clone from remote repository
+
+```bash
+git clone <url>
+```
