@@ -72,3 +72,9 @@ git branch
 ```bash
 git remote add origin <remote_url>
 ```
+
+10. Command to push to remote
+
+```bash
+git push origin <branch_name>
+```
