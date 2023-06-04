@@ -44,3 +44,15 @@ git log
 ```bash
 git log --oneline
 ```
+
+6. Command to switch branches
+
+```bash
+git checkout <branch name>
+```
+
+7. Command to switch to some commit id
+
+```bash
+git checkout <commit-id>
+```
