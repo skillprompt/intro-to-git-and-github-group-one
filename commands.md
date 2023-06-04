@@ -34,3 +34,13 @@ git add <file_path>
 ```bash
 git commit -m "my message"
 ```
+
+5. See the logs of the commit
+
+```bash
+git log
+```
+
+```bash
+git log --oneline
+```
