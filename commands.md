@@ -78,3 +78,9 @@ git remote add origin <remote_url>
 ```bash
 git push origin <branch_name>
 ```
+
+11. to rename the branch
+
+```bash
+git branch -M <new_branch name>
+```
