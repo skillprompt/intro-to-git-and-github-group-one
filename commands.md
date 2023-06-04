@@ -66,3 +66,9 @@ git checkout <commit-id>
 ```bash
 git branch
 ```
+
+9. Add remote repository to update code
+
+```bash
+git remote add origin <remote_url>
+```
