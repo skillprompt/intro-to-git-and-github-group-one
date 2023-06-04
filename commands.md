@@ -45,14 +45,24 @@ git log
 git log --oneline
 ```
 
-6. Command to switch branches
+6. Command to switch branches that already exist
 
 ```bash
 git checkout <branch name>
+```
+
+```bash
+git checkout -b <branch name>
 ```
 
 7. Command to switch to some commit id
 
 ```bash
 git checkout <commit-id>
+```
+
+8. See the list of all branches
+
+```bash
+git branch
 ```
