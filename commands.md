@@ -1,0 +1,36 @@
+## Git introduction
+
+// files
+
+// untracked
+// unstaged
+
+// staged (staging area)
+
+// commited
+
+## commands
+
+1.
+
+```bash
+git status
+```
+
+2. Makes a repo in the current directory
+
+```bash
+git init
+```
+
+3. Track the file
+
+```bash
+git add <file_path>
+```
+
+4. Writing commit message
+
+```bash
+git commit -m "my message"
+```
