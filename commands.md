@@ -84,3 +84,9 @@ git push origin <branch_name>
 ```bash
 git clone <url>
 ```
+
+12. command to merge branches
+
+```bash
+git merge<branch_name>
+```
